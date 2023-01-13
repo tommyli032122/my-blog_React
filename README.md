@@ -1,5 +1,7 @@
 # my-blog_React
 
+Need node.js and React
+
 Reference:
 
 The Net Ninja
